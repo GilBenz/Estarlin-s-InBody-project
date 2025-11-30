@@ -1,2 +1,2 @@
-# Estarlin-s-InBody-project
+# Estarlin´sInBodyProject
 Proyecto para calcular el Índice de masa coporal.
